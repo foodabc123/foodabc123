@@ -5,8 +5,7 @@
 - 📫 How to reach me 
 Insta @foodetd
 
-<!---
 foodabc123/foodabc123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 Awww, that's nice, my own ✨me✨ repo!
